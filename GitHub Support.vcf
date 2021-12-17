@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:GitHub Support
+FN:GitHub Support
+ORG:GitHub\, Inc
+ADR;POSTAL:;;88 Colin P Kelly Jr Street;San Francisco;CA;94107;USA
+LABEL;POSTAL;ENCODING=QUOTED-PRINTABLE:88 Colin P Kelly Jr Street=0D=0ASan Francisco, CA 94107=0D=0AUSA
+URL;HOME:http://github.com
+EMAIL;PREF;INTERNET:support@github.com
+REV:20210527T202909Z
+END:VCARD
